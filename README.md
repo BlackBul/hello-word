@@ -3,5 +3,5 @@ hello-word
 ==========
 
 Word-Wallhack
-soy el nuevo hacker xD bueno en si estoy empezando 
-con la carrera pero me veo motivado y me gusta la ramificacion de la maestria 
+I'm the new good hacker xD if I'm starting at 
+with the race but I see myself motivated and I like the master branch
